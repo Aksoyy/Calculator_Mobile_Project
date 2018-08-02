@@ -3,4 +3,4 @@ Android Uygulaması Eclipse IDE ve Android Emülatör kullanılarak yapılmışt
 
 Örnek Çalışması : https://youtu.be/gOM898gvgg0
 
-Mobil Uygulamanın linki : 206.189.108.187:8080/calculatorv2/CalculatorMobile.apk
+Mobil Uygulamanın linki : http://206.189.108.187:8080/calculatorv2/CalculatorMobile.apk
