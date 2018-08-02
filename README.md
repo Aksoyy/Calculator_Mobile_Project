@@ -2,3 +2,5 @@
 Android Uygulaması Eclipse IDE ve Android Emülatör kullanılarak yapılmıştır.
 
 Örnek Çalışması : https://youtu.be/gOM898gvgg0
+
+Mobil Uygulamanın linki : 206.189.108.187:8080/calculatorv2/CalculatorMobile.apk
